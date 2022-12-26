@@ -1,2 +1,2 @@
-# Atelier_1-CRUD-PHP-MVC-
+# CRUD-PHP-MVC-
 Exemple d'application CRUD en PHP utilisant une architecture MVC From Scratch
